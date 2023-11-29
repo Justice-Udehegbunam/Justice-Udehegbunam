@@ -7,7 +7,7 @@
 ## A Little More About Me:
 
 ```javascript
-const yakubuBobaiEphraim= {
+const justiceUdehegbunam= {
   lookingFor: "Frontend developer";
   code: ["React",  "Tailwind", "JavaScript", "HTML/CSS"];
   comeLetUs: ["Solve Problems", "Create scalable products", "thrive"],
