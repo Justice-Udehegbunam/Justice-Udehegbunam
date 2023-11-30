@@ -7,9 +7,9 @@
 ## A Little More About Me:
 
 ```javascript
-const justiceUdehegbunam= {
-  lookingFor: "Frontend developer";
-  code: ["React",  "Tailwind", "JavaScript", "HTML/CSS"];
+const justiceUdehegbunam = {
+  lookingFor: "Frontend developer roles.";
+  codingTools: ["React",  "Tailwind", "JavaScript", "HTML/CSS"];
   comeLetUs: ["Solve Problems", "Create scalable products", "thrive"],
   challenge: "I take my pride in my ability to always deliver as expected and to always be timely",
   funFacts: ['I am willing and ready to advance in the Tech Space',
@@ -29,7 +29,7 @@ const justiceUdehegbunam= {
 
 ## ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Justice-Udehegbunam&show_icons=true&theme=dark_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 
-## <a href="http://www.github.com/Phildeoner"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Justice-Udehegbunam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## <a href="http://www.github.com/Justice-Udehegbunam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Justice-Udehegbunam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## <a href="https://github.com/Justice-Udehegbunam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justice-Udehegbunam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
