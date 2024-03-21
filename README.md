@@ -9,7 +9,7 @@
 ```javascript
 const justiceUdehegbunam = {
   lookingFor: "Frontend developer roles.";
-  codingTools: ["React",  "Tailwind", "SCSS", "JavaScript", "HTML", "CSS"];
+  codingTools: ["React",  "Tailwind", "SCSS", "JavaScript", "TypeScript", "HTML", "CSS"];
   comeLetUs: ["Solve Problems", "Create scalable products", "thrive"],
   challenge: "I take my pride in my ability to always deliver as expected and to always be timely",
   funFacts: ['I am willing and ready to advance in the Tech Space',
@@ -21,7 +21,9 @@ const justiceUdehegbunam = {
 
 ## Here are some Languages and Tools I'm good at:
 
-## ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SCSS Badge](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+## ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SCSS Badge](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ## STATUS REPORT:
 
@@ -33,4 +35,4 @@ const justiceUdehegbunam = {
 
 ## <a href="https://github.com/Justice-Udehegbunam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justice-Udehegbunam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
-💬 Come let's Solve problems: [Gmail](justicefavour491@gmail.com)
+💬 Come let's Work Together: [Gmail](justicefavour491@gmail.com)
