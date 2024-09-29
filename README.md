@@ -8,8 +8,8 @@
 
 ```javascript
 const justiceUdehegbunam = {
-  lookingFor: "Frontend developer roles.";
-  codingTools: ["React",  "Tailwind", "SCSS", "JavaScript", "TypeScript", "HTML", "CSS"];
+  lookingFor: "Web developer roles.";
+  codingTools: ["React",  "Tailwind", "Node.js "SCSS", "JavaScript", "TypeScript", "HTML", "CSS"];
   comeLetUs: ["Solve Problems", "Create scalable products", "thrive"],
   challenge: "I take my pride in my ability to always deliver as expected and to always be timely",
   funFacts: ['I am willing and ready to advance in the Tech Space',
